@@ -1,0 +1,30 @@
+.nav_bar{
+    display: flex;
+}
+ul{
+    display: flex;
+    width: 32rem;
+    justify-content: space-around;
+    font-family: cursive;
+    font-size: x-large;
+}
+h1{
+    position:relative;
+    left: 35rem;
+    top: 2rem;
+    
+    color: brown;
+}
+.container{
+    text-align: center;
+}
+li{
+    list-style-type: none;
+}
+.our_service{
+    display: flex;
+}
+.home_image{
+    width: 100vw;
+    height: 70vh;
+}
